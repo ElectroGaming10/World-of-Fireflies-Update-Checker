@@ -1,0 +1,10 @@
+{
+  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
+  "1.20.1": {
+    "0.3": "Added Entity: Firefly, Others: Added Avoid Player Condition System, Added Creative Tab" 
+  },
+  "promos": {
+    "1.20.1-latest": "0.3",
+    "1.20.1-recommended": "0.3"
+  }
+}
