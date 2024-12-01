@@ -1,11 +1,27 @@
 {
   "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
+  "1.19.2": {
+    "0.5": "Others: Added Mod Logo"
+  },
+  "1.19.4": {
+    "0.5": "Others: Added Mod Logo"
+  },
   "1.20.1": {
-    "0.4": "Added Update Checker System",    
+    "0.5": "Others: Added Mod Logo",    
+    "0.4": "Others: Added Update Checker System",    
     "0.3": "Added Entity: Firefly, Others: Added Avoid Player Condition System, Added Creative Tab" 
   },
+  "1.20.4": {
+    "0.5": "Others: Added Mod Logo"
+  },
   "promos": {
-    "1.20.1-latest": "0.4",
-    "1.20.1-recommended": "0.4"
+    "1.19.2-latest": "0.5",
+    "1.19.2-recommended": "0.5",
+    "1.19.4-latest": "0.5",
+    "1.19.4-recommended": "0.5",
+    "1.20.1-latest": "0.5",
+    "1.20.1-recommended": "0.5",
+    "1.20.4-latest": "0.5",
+    "1.20.4-recommended": "0.5"
   }
 }
